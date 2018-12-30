@@ -13,7 +13,7 @@
     "bilen_sayisi": "Devir",
     "sonuc": "16-24-38-39-44-48"
     "ikramiye_miktari": "4.551.210,02 TL"
-  }
+  },
 {
     "tarih": "24.12.2018",
     "oyun_adi": "ON NUMARA",
