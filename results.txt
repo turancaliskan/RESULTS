@@ -3,7 +3,7 @@
     "tarih": "20.12.2018",
     "oyun_adi": "SAYISAL LOTO",
     "bilen_sayisi": "Devir",
-    "sonuc": "12-29-32-34-46"
+    "sonuc": "12-29-32-34-46",
     "ikramiye_miktari": "2.371.358,14 TL"
     
   },
@@ -11,14 +11,14 @@
     "tarih": "27.12.2018",
     "oyun_adi": "SUPER LOTO",
     "bilen_sayisi": "Devir",
-    "sonuc": "16-24-38-39-44-48"
+    "sonuc": "16-24-38-39-44-48",
     "ikramiye_miktari": "4.551.210,02 TL"
   },
 {
     "tarih": "24.12.2018",
     "oyun_adi": "ON NUMARA",
     "bilen_sayisi": "1 KISI",
-    "sonuc": "11-16-28-29-31-36-38-39-40-41-42-47-48-50-55-57-59-68-70-73-75-80"
+    "sonuc": "11-16-28-29-31-36-38-39-40-41-42-47-48-50-55-57-59-68-70-73-75-80",
     "ikramiye_miktari": "341.634,25 TL"
     
   },
@@ -26,7 +26,7 @@
     "tarih": "26.12.2018",
     "oyun_adi": "SANS TOPU",
     "bilen_sayisi": "DEVIR",
-    "sonuc": "1-8-12-13-18 +9"
+    "sonuc": "1-8-12-13-18 +9",
     "ikramiye_miktari": "1.042.492,35 TL"
   }
 ]
