@@ -1,4 +1,11 @@
 [
+{
+    "tarih": "",
+    "oyun_adi": "",
+    "bilen_sayisi": "",
+    "sonuc": "",
+    "ikramiye_miktari": ""
+  },
   {
     "tarih": "20.12.2018",
     "oyun_adi": "SAYISAL LOTO",
@@ -28,12 +35,6 @@
     "bilen_sayisi": "DEVIR",
     "sonuc": "1-8-12-13-18 +9",
     "ikramiye_miktari": "1.042.492,35 TL"
-  },
-  {
-    "tarih": "",
-    "oyun_adi": "",
-    "bilen_sayisi": "",
-    "sonuc": "",
-    "ikramiye_miktari": ""
   }
+  
 ]
