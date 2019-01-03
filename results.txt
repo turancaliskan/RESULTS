@@ -1,18 +1,10 @@
 [
 {
-    "tarih": "",
-    "oyun_adi": "",
-    "bilen_sayisi": "",
-    "sonuc": "",
-    "ikramiye_miktari": ""
-  },
-  {
-    "tarih": "20.12.2018",
-    "oyun_adi": "SAYISAL LOTO",
-    "bilen_sayisi": "Devir",
-    "sonuc": "12-29-32-34-46",
-    "ikramiye_miktari": "2.371.358,14 TL"
-    
+    "tarih": "02-01-2018",
+    "oyun_adi": "SANS TOPU",
+    "bilen_sayisi": "4",
+    "sonuc": "05-18-22-24-31 + 02",
+    "ikramiye_miktari": "kisi basi 159.686,70 TL"
   },
   {
     "tarih": "27.12.2018",
@@ -21,7 +13,14 @@
     "sonuc": "16-24-38-39-44-48",
     "ikramiye_miktari": "4.551.210,02 TL"
   },
-{
+   {
+    "tarih": "26.12.2018",
+    "oyun_adi": "SANS TOPU",
+    "bilen_sayisi": "DEVIR",
+    "sonuc": "1-8-12-13-18 +9",
+    "ikramiye_miktari": "1.042.492,35 TL"
+  },
+  {
     "tarih": "24.12.2018",
     "oyun_adi": "ON NUMARA",
     "bilen_sayisi": "1 KISI",
@@ -30,11 +29,12 @@
     
   },
   {
-    "tarih": "26.12.2018",
-    "oyun_adi": "SANS TOPU",
-    "bilen_sayisi": "DEVIR",
-    "sonuc": "1-8-12-13-18 +9",
-    "ikramiye_miktari": "1.042.492,35 TL"
+    "tarih": "20.12.2018",
+    "oyun_adi": "SAYISAL LOTO",
+    "bilen_sayisi": "Devir",
+    "sonuc": "12-29-32-34-46",
+    "ikramiye_miktari": "2.371.358,14 TL"
+    
   }
   
 ]
