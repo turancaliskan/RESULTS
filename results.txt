@@ -1,4 +1,17 @@
-[
+[{
+    "tarih": "05.01.2019",
+    "oyun_adi": "SAYISAL LOTO",
+    "bilen_sayisi": "1",
+    "sonuc": "02-20-29-38-46-49",
+    "ikramiye_miktari": "5.051.882,20 TL"
+  },
+  {
+    "tarih": "03.01.2019",
+    "oyun_adi": "SUPER LOTO",
+    "bilen_sayisi": "DEVIR",
+    "sonuc": "2-5-27-36-40-51",
+    "ikramiye_miktari": "6.163.852,56 TL"
+  },
 {
     "tarih": "02-01-2018",
     "oyun_adi": "SANS TOPU",
