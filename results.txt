@@ -1,4 +1,18 @@
-[{
+[ {
+    "tarih": "09.01.2019",
+    "oyun_adi": "SANS TOPU",
+    "bilen_sayisi": "2",
+    "sonuc": "7-15-19-32-33 +07",
+    "ikramiye_miktari": "kisi basi 335.782,75 TL"
+  },
+{
+    "tarih": "09.01.2019",
+    "oyun_adi": "SAYISAL LOTO",
+    "bilen_sayisi": "1. Devir",
+    "sonuc": "13-32-33-42-43-47",
+    "ikramiye_miktari": "828.193,78 TL"
+  },
+{
     "tarih": "07.01.2019",
     "oyun_adi": "ON NUMARA",
     "bilen_sayisi": "3",
