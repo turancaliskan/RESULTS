@@ -1,4 +1,11 @@
-[ {
+[{
+    "tarih": "10.01.2019",
+    "oyun_adi": "SUPER LOTO",
+    "bilen_sayisi": "5. DEVIR",
+    "sonuc": "03-10-39-44-46-49",
+    "ikramiye_miktari": "7.993.986,82 TL"
+  },
+{
     "tarih": "09.01.2019",
     "oyun_adi": "SANS TOPU",
     "bilen_sayisi": "2",
