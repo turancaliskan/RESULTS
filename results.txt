@@ -1,4 +1,11 @@
 [{
+    "tarih": "14.01.2019",
+    "oyun_adi": "ON NUMARA",
+    "bilen_sayisi": "4",
+    "sonuc": "04-05-07-11-16-17-19-23-25-26-30-34-40-41-43-46-65-70-72-76-78-79",
+    "ikramiye_miktari": "kisi basi 86.608,10 TL"
+  },
+{
     "tarih": "12.01.2019",
     "oyun_adi": "SAYISAL LOTO",
     "bilen_sayisi": "2. Devir",
