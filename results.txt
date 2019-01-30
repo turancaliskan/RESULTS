@@ -1,4 +1,11 @@
 [{
+    "tarih": "30.01.2019",
+    "oyun_adi": "SANS TOPU",
+    "bilen_sayisi": "1",
+    "sonuc": "02-09-11-19-31 +11",
+    "ikramiye_miktari": "648.200,40 TL"
+  },
+{
     "tarih": "28.01.2019",
     "oyun_adi": "ON NUMARA",
     "bilen_sayisi": "1. DEVIR",
