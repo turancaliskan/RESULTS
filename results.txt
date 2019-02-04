@@ -1,4 +1,11 @@
 [{
+    "tarih": "04.02.2019",
+    "oyun_adi": "ON NUMARA",
+    "bilen_sayisi": "3",
+    "sonuc": "02-03-06-08-10-17-25-27-37-39-42-45-46-52-53-57-61-63-66-70-75-78",
+    "ikramiye_miktari": "238.526,95 TL"
+  },
+{
     "tarih": "02.02.2019",
     "oyun_adi": "SAYISAL LOTO",
     "bilen_sayisi": "1",
