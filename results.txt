@@ -1,4 +1,11 @@
 [{
+    "tarih": "06.02.2019",
+    "oyun_adi": "SANS TOPU",
+    "bilen_sayisi": "4",
+    "sonuc": "03-11-15-17-23 +06",
+    "ikramiye_miktari": "165.656,75 TL"
+  },
+{
     "tarih": "04.02.2019",
     "oyun_adi": "ON NUMARA",
     "bilen_sayisi": "3",
