@@ -1,4 +1,11 @@
 [{
+    "tarih": "14.02.2019",
+    "oyun_adi": "SUPER LOTO",
+    "bilen_sayisi": "10. DEVIR",
+    "sonuc": "10-26-28-32-34-40",
+    "ikramiye_miktari": "19.661.688,40 TL"
+  },
+{
     "tarih": "13.02.2019",
     "oyun_adi": "SAYISAL LOTO",
     "bilen_sayisi": "2. Devir",
