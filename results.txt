@@ -1,5 +1,5 @@
 [{
-    "tarih": "17.02.2019",
+    "tarih": "16.02.2019",
     "oyun_adi": "SAYISAL LOTO",
     "bilen_sayisi": "3. devir",
     "sonuc": "07-11-22-30-37-44",
