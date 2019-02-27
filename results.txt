@@ -1,4 +1,18 @@
 [{
+    "tarih": "27.02.2019",
+    "oyun_adi": "SAYISAL LOTO",
+    "bilen_sayisi": "6. Devir",
+    "sonuc": "03-05-09-10-14-23",
+    "ikramiye_miktari": "7.725.687,37 TL"
+  },
+{
+    "tarih": "27.02.2019",
+    "oyun_adi": "SANS TOPU",
+    "bilen_sayisi": "3. Devir",
+    "sonuc": "11-12-23-26-27 +13",
+    "ikramiye_miktari": "2.074.719,73 TL"
+  },
+{
     "tarih": "25.02.2019",
     "oyun_adi": "ON NUMARA",
     "bilen_sayisi": "1",
